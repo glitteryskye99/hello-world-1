@@ -1,7 +1,8 @@
 repo_name: glitteryskye99/hello-world-1
 report_id: 6b2c698f1eb11cf4865674eab4bc092b
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T05:12:49+00:00'
+timestamp: '2024-01-05T08:59:12+00:00'
 requested_by: tstt
 provider: github
 branch: master
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/glitteryskye99/hello-world-1
   detection_source: Repo Metadata
